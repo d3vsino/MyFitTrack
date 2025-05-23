@@ -4,7 +4,7 @@ MyFitTrack is a full-stack nutrition and fitness tracking app built for personal
 
 ## 🚀 Why I Made It
 
-I built MyFitTrack because i wanted an ai integrated tool to track my progress as most of the apps out there requires a subscription, so i challenged myself to build this full-stack app with the assist of ai.
+I built MyFitTrack because i wanted an ai integrated tool to track my nutrition progress as most of the apps out there requires a subscription, so i challenged myself to build this full-stack app with the assist of ai.
 
 ## 🛠️ How I Made It
 
