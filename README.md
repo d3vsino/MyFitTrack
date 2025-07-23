@@ -37,12 +37,6 @@ Capacitor allowed me to bundle the same Vue frontend as a native Android app, so
 - Capacitor + Android SDK (for packaging mobile app)
 
 ---
-## 🌐 Live Links
-
-- 🌍 **Web App**: [https://myfittrack.vercel.app](https://myfittrack.vercel.app)
-- 📦 **Backend API**: [https://myfittrackbackend.onrender.com](https://myfittrackbackend.onrender.com)
-
----
 
 ## 📱 Download the Android App
 
